@@ -1,6 +1,6 @@
 ## Lángos
 
-##### A Lángos egy LSTM neurális hálón alapuló magyar nyelvi modell.
+##### A Lángos egy LSTM neurális hálón alapuló magyar nyelvi model.
 
 |                                                | jegyzet                   | nyers adat                                                   | előkészített adat                                            | modell                                                       |
 | ---------------------------------------------- | ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -10,16 +10,12 @@
 
 
 
-### Wikipédia alapú modell
+### Wikipédia alapú model
 
 Architektúra: AWD-LSTM  
 Dataset: 108k magyar wikioldal  
 
 Vocab: 60k  
-Pontosság: 26% (következő szó jóslása)  
-
-Teljes modell:
-
 
 ### ULMFiT classifier (port.hu értékelések kategorizálása)
 
