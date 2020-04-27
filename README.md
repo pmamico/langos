@@ -2,7 +2,7 @@
 
 ##### A Lángos egy LSTM neurális hálón alapuló magyar nyelvi model.
 
-|                                                | jegyzet                   | nyers adat                                                   | előkészített adat                                            | modell                                                       |
+|                                                | jegyzet                   | nyers adat                                                   | előkészített adat                                            | model                                                       |
 | ---------------------------------------------- | ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Wikipédia alapú LM                         | [wiki model](wiki_pretrain.ipynb)       | [wiki_hu.zip](https://www.dropbox.com/s/o4zv1ap6gtx7r0m/wiki.zip?dl=0) | [vocab.pkl](https://www.dropbox.com/s/jtypwtg4e2awxxm/wiki_hu_vocab.pkl?dl=0) | [wikimodel.pth](https://www.dropbox.com/s/twc1uuvfc222tej/wiki_hu.pth?dl=0) |
 | port.hu dataset                    | [port.hu dataset előállítása](port_hu_adatgyujtes.ipynb) | [porthu.csv](https://www.dropbox.com/s/rji3oq4yrhf371k/port_hu_dataset.csv?dl=0) | [databunch.pkl](https://www.dropbox.com/s/2fkiy7agzzcgvpx/port_hu_databunch.pkl?dl=0) | -                                                            |
